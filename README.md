@@ -4,7 +4,7 @@
 </div>
 
 ## Introduction
-This repository contains four Data Engineering projects using AWS to conduct big data analysis and address various business requirements (link as follows):
+This repository contains four Data Engineering projects using AWS to build ETL/ELT pipelines and conduct big data analysis to address various business requirements (link as follows):
 
  - [Data Modeling with Apache Cassandra](https://github.com/Ting-DS/Data-Engineering-with-AWS/tree/main/Data-Modeling-Cassandra): Build an ETL pipeline using Python driver from a directory of CSV files to an Apache Cassandra NoSQL database to improved efficiency in querying user activity data.
 
