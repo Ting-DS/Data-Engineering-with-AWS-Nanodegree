@@ -15,22 +15,9 @@ This repository contains four Data Engineering projects using AWS to conduct big
  - [Automatic Data Pipeline with Apache Airflow](https://github.com/Ting-DS/Data-Engineering-with-AWS/tree/main/Airflow-Data-Pipeline): Design, automate and monitor ETL pipelines in Apache Airflow for processing JSON logs and metadata from AWS S3 into Redshift data warehouse, involving custom operators for staging, data loading, and data quality checks, to create versatile ETL pipelines with monitoring and backfill capabilities.
 
 ## Keywords & Reference: 
+明白了，以下是每个关键词和相应的链接，已根据您的要求进行了格式化：
 
-1. [Apache Airflow](https://airflow.apache.org/)
-2. [Apache Spark](https://spark.apache.org/)
-3. [Python](https://www.python.org/)
-4. [PostgreSQL](https://www.postgresql.org/)
-5. [Apache Cassandra](http://cassandra.apache.org/)
-6. [NoSQL](https://en.wikipedia.org/wiki/NoSQL)
-7. [Data Warehouse](https://en.wikipedia.org/wiki/Data_warehouse)
-8. [Data Lakehouse](https://databricks.com/solutions/lakehouse)
-9. [AWS S3](https://aws.amazon.com/s3/)
-10. [Redshift](https://aws.amazon.com/redshift/)
-11. [Athena](https://aws.amazon.com/athena/)
-12. [Glue Studio](https://aws.amazon.com/glue/)
-13. [Database](https://en.wikipedia.org/wiki/Database)
-14. [Schema](https://en.wikipedia.org/wiki/Database_schema)
-15. [ETL & ELT pipeline](https://en.wikipedia.org/wiki/ETL)
+[Apache Airflow](https://airflow.apache.org/), [Apache Spark](https://spark.apache.org/),[Python](https://www.python.org/),[PostgreSQL](https://www.postgresql.org/), [Apache Cassandra](http://cassandra.apache.org/),[NoSQL](https://en.wikipedia.org/wiki/NoSQL),[Data Warehouse](https://en.wikipedia.org/wiki/Data_warehouse),[Data Lakehouse](https://databricks.com/solutions/lakehouse),[AWS S3](https://aws.amazon.com/s3/),[Redshift](https://aws.amazon.com/redshift/),[Athena](https://aws.amazon.com/athena/),[Glue Studio](https://aws.amazon.com/glue/),[Database](https://en.wikipedia.org/wiki/Database),[Schema](https://en.wikipedia.org/wiki/Database_schema),[ETL & ELT pipeline](https://en.wikipedia.org/wiki/ETL)
 
 ## Some example
 #### Data Warehouse Schema in Redshift for Song Play Analysis
