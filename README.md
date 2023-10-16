@@ -5,7 +5,6 @@ This repository contains four projects for Data Engineering using AWS-related to
 
 
  - [Data Modeling with Apache Cassandra](https://github.com/Ting-DS/Data-Engineering-with-AWS/tree/main/Data-Modeling-Cassandra):
-
-Build an EIL pipeline using **Python** driver from a directory of CSV files to an Apache Cassandra NoSQL database to improved efficiency in querying user activity data.
+   Build an EIL pipeline using **Python** driver from a directory of CSV files to an Apache Cassandra NoSQL database to improved efficiency in querying user activity data.
 
  - Build an ETL pipeline from AWS S3 
