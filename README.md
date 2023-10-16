@@ -16,7 +16,7 @@ This repository contains four Data Engineering projects using AWS to conduct big
 
 ## Keywords & Reference: 
 
-[Apache Airflow](https://airflow.apache.org/), [Apache Spark](https://spark.apache.org/),[Python](https://www.python.org/),[PostgreSQL](https://www.postgresql.org/), [Apache Cassandra](http://cassandra.apache.org/),[NoSQL](https://en.wikipedia.org/wiki/NoSQL),[Data Warehouse](https://en.wikipedia.org/wiki/Data_warehouse),[Data Lakehouse](https://databricks.com/solutions/lakehouse),[AWS S3](https://aws.amazon.com/s3/),[Redshift](https://aws.amazon.com/redshift/),[Athena](https://aws.amazon.com/athena/),[Glue Studio](https://aws.amazon.com/glue/),[Database](https://en.wikipedia.org/wiki/Database),[Schema](https://en.wikipedia.org/wiki/Database_schema),[ETL & ELT pipeline](https://en.wikipedia.org/wiki/ETL)
+[Apache Airflow](https://airflow.apache.org/), [Apache Spark](https://spark.apache.org/),[Python](https://www.python.org/),[PostgreSQL](https://www.postgresql.org/), [Apache Cassandra](http://cassandra.apache.org/), [NoSQL](https://en.wikipedia.org/wiki/NoSQL), [Data Warehouse](https://en.wikipedia.org/wiki/Data_warehouse), [Data Lakehouse](https://databricks.com/solutions/lakehouse), [AWS S3](https://aws.amazon.com/s3/), [Redshift](https://aws.amazon.com/redshift/), [Athena](https://aws.amazon.com/athena/), [Glue Studio](https://aws.amazon.com/glue/),[Database](https://en.wikipedia.org/wiki/Database), [Schema](https://en.wikipedia.org/wiki/Database_schema), [ETL & ELT pipeline](https://en.wikipedia.org/wiki/ETL), [Data Modeling](https://en.wikipedia.org/wiki/Data_modeling), [Big Data](https://www.oracle.com/big-data/what-is-big-data/)
 
 ## Some example
 #### Data Warehouse Schema in Redshift for Song Play Analysis
