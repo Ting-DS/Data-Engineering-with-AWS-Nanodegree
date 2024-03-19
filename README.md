@@ -1,4 +1,12 @@
-# Data-Engineering-with-AWS
+# Data Engineering with AWS Nanodegree
+
+#### [Certification](https://learn.udacity.com/view-certificate/nd027)
+
+<div align="center">
+  <img src="https://github.com/Ting-DS/Data-Scientist-Nanodegreee-Udacity/blob/main/certification.png" width="50%">
+</div>
+
+
 <div align="center">
   <img src="https://github.com/Ting-DS/Data-Engineering-with-AWS/blob/main/image/DE_AWS.png" width="80%">
 </div>
