@@ -3,7 +3,7 @@
 #### [Certification Link](https://learn.udacity.com/view-certificate/nd027)
 
 <div align="center">
-  <img src="https://github.com/Ting-DS/Data-Engineering-with-AWS-Nanodegree/blob/main/certification_DE.png" width="50%">
+  <img src="https://github.com/Ting-DS/Data-Engineering-with-AWS-Nanodegree/blob/main/certification_DE.png" width="80%">
 </div>
 
 
